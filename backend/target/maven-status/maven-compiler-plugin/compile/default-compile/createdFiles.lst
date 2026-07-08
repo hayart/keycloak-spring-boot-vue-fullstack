@@ -1,0 +1,7 @@
+com\hayk\fullstack\KeycloakBackendApplication.class
+com\hayk\fullstack\repository\UserRepository.class
+com\hayk\fullstack\entity\UserProfile.class
+com\hayk\fullstack\dto\UserProfileDto.class
+com\hayk\fullstack\entity\UserProfile$UserProfileBuilder.class
+com\hayk\fullstack\controller\UserController.class
+com\hayk\fullstack\security\SecurityConfig.class
